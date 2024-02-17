@@ -1,0 +1,3 @@
+/Users/bluesify/Developer/courses/game_programming/CMakeFiles/main.dir
+/Users/bluesify/Developer/courses/game_programming/CMakeFiles/edit_cache.dir
+/Users/bluesify/Developer/courses/game_programming/CMakeFiles/rebuild_cache.dir
